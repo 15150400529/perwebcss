@@ -65,14 +65,33 @@ div.row button{
 
 .row-me{
     margin-top: 5%;
-    margin-left: 15%;
+    margin-left: 25%;
 }
 .img-head{
+   float: left;
     padding-top: 3%;
     width: 30%;
     height: auto;
 }
+.tabb{
+    padding-top: 8%;
+    margin-left: 5%;
+    
+}
+
+
 .h2me{
     font-size: 40px;
+}
+.quot{
+    float: none;
+}
+.dll{
+    margin-top: 4%;
+}
+.dll dd{
+    width: 100%;
+    padding-top: 1%;
+
 }
 
