@@ -54,17 +54,25 @@ div.row h1{
     border: none;
     margin-bottom: 3%;
 }
-div.row h2{
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    
-}
+
 
 div.row button{
 
     background-color:transparent;
     color: white;
  font-size: 25px;
+}
+
+.row-me{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.img-head{
+    padding-top: 3%;
+    width: 30%;
+    height: auto;
+}
+.h2me{
+    font-size: 40px;
 }
 
