@@ -76,7 +76,15 @@ div.row button{
 .tabb{
     padding-top: 8%;
     margin-left: 5%;
-    
+  
+}
+
+.tabhe{
+    margin-bottom: 5%;
+}
+.tabl{
+    margin-top: 2%;
+    margin-bottom: 3%;
 }
 
 
@@ -96,3 +104,42 @@ div.row button{
 
 }
 
+/*award*/
+.reward{
+    margin-top: 10%;
+}
+.date{
+    display: block;
+    margin-bottom: 2%;
+   
+    
+}
+.award{
+    text-align: center;
+    margin-top: 15%;
+    
+    
+}
+.awatext{
+    font-size: 220%;
+}
+
+/*work*/
+.wkt{
+    display: flex;
+    display: -wilket-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 7%;
+    
+}
+.work{
+    margin-top: 25%
+}
+.work img{
+    width: 100%;
+    height: 190px;
+    margin-top: 10%;
+    padding-right: 5%
+    
+}
