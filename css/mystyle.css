@@ -2,6 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+.wrapper{
+ background-color: #1e4142;
+    color: #5f7f79;
+ 
+}
+
 ul.nav li{
     width:  25%;
     float: left;
@@ -61,16 +68,39 @@ div.row button{
     color: white;
  font-size: 25px;
 }
-
+.score{
+    padding-top: 5%;
+}
 .row-me{
     margin-top: 15%;
     margin-left: 25%;
+    margin-bottom: 5%;
+    
 }
 .img-head{
    float: left;
     padding-top: 3%;
     width: 30%;
     height: auto;
+}
+.ble {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.ble > thead > tr > th,
+.ble > tbody > tr > th,
+.ble > tfoot > tr > th,
+.ble > thead > tr > td,
+.ble > tbody > tr > td,
+.ble > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 0px solid transparent;
+}
+.td{
+   border-top:1px solid transparent;
 }
 .tabb{
     padding-top: 8%;
@@ -89,6 +119,7 @@ div.row button{
 
 .h2me{
     font-size: 40px;
+    color: #6e968e;
 }
 .quot{
     float: none;
@@ -130,6 +161,7 @@ div.row button{
     align-items: center;
     justify-content: center;
     margin-bottom: 7%;
+    margin-top: 10%;
     
 }
 .work{
@@ -153,4 +185,40 @@ div.row button{
     width: 78%;
     height: 500px;
   
+}
+
+/*contact*/
+.conta{
+    display: flex;
+    display: -wilket-flex;
+    justify-content: flex-end;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+button{
+    margin-top: 1%;
+    
+}
+.method{
+    margin-top:15%;
+   
+}
+form{
+ margin-top: 5%;
+margin-bottom: 1%;
+}
+.er{
+    width: 15%;
+    height: 180px;
+    margin-right: 4%;
+}
+
+.divide{
+  height: 1px;
+    border: none;
+    border-top: 1px solid #3f514e;
+  margin: 9px 0;
+  overflow: hidden;
+ 
 }
